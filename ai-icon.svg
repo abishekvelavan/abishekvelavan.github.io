@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none" stroke="white" stroke-width="5">
+  <polygon points="50 5, 95 25, 95 75, 50 95, 5 75, 5 25" fill="black" stroke="#00ffff" />
+  <circle cx="50" cy="50" r="10" fill="#00ffff" />
+  <line x1="50" y1="50" x2="50" y2="5" stroke="#00ffff" />
+  <line x1="50" y1="50" x2="95" y2="25" stroke="#ff00ff" />
+  <line x1="50" y1="50" x2="95" y2="75" stroke="#00ffff" />
+  <line x1="50" y1="50" x2="50" y2="95" stroke="#ff00ff" />
+  <line x1="50" y1="50" x2="5" y2="75" stroke="#00ffff" />
+  <line x1="50" y1="50" x2="5" y2="25" stroke="#ff00ff" />
+</svg>
